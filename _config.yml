@@ -22,11 +22,9 @@ nav-menu:
   permalink: about
 - text: Resume
   permalink: resume
-- text: Blog
-  permalink: blog
 
 # use false to turn off any social media links
-twitter: https://twitter.com/
+twitter: false
 facebook: false
 instagram: false
 github: https://github.com/zeerg
